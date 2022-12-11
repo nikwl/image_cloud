@@ -3,6 +3,8 @@ image_cloud
 
 A little function based on the [word_cloud](https://github.com/amueller/word_cloud) generator to create a cloud, but with images.
 
+![Image Cloud](assets/image_cloud.png)
+
 ## Installation
 
 Install wordcloud via pip
